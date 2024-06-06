@@ -1,6 +1,6 @@
 # IveApi
 ## Instructions
-1. Clone the project and open in Visual Studio.
+Clone the project and open in Visual Studio. Run the IveApi project. Swagger should open which will show the API routes. There is data that in DataContext that will seed the database when the project runs. This can be viewed by opening the sqlite.db file with DB Browser for SQLite.
 
 ## Entity Relationship Diagram
 
